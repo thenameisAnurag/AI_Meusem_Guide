@@ -46,7 +46,9 @@ An intelligent museum tour guide system powered by cutting-edge AI — enabling 
 
 ### 🔹 Text-to-Speech: Voice Guide
 
-![image](https://github.com/user-attachments/assets/d8e73481-ae0b-4fe1-b066-d2e87f031467)
+
+![Presentation1](https://github.com/user-attachments/assets/faa64a68-4a9e-4095-a529-a43f9e28e22c)
+
 
 
 🎤 Converts user voice to text → RAG query → answer to audio:
