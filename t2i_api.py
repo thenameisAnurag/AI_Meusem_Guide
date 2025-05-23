@@ -18,10 +18,8 @@ from langchain_community.llms import Ollama
 # Apply nest_asyncio for async compatibility
 nest_asyncio.apply()
 
-# ---- STABILITY AI CONFIG ----
-# STABILITY_API_KEY = "sk-KcfB6lCnhY2fINMrkYbI4w2Nbjo7CdXfEIk1GbbnG8ORCK2w"
-# STABILITY_API_KEY = "sk-kmpcf9iROZwM1VDKE3qh9NXUsUioOOnJCHjsSVsMeTGHthjY"
-STABILITY_API_KEY = "sk-xSUxjXeASRr49BKTJlCODQ2pKtvMb7miBOMwsNpaXn5PSoMy"
+
+STABILITY_API_KEY = "Enter your Api key "
 STABILITY_ENDPOINT = "https://api.stability.ai/v1/generation/stable-diffusion-xl-1024-v1-0/text-to-image"
 
 # ---- FILE PATHS ----
